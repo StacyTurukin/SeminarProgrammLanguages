@@ -1,0 +1,15 @@
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\task_09\bin\Debug\net6.0\task_09.exe
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\task_09\bin\Debug\net6.0\task_09.deps.json
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\task_09\bin\Debug\net6.0\task_09.runtimeconfig.json
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\task_09\bin\Debug\net6.0\task_09.dll
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\task_09\bin\Debug\net6.0\task_09.pdb
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\task_09\obj\Debug\net6.0\task_09.csproj.AssemblyReference.cache
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\task_09\obj\Debug\net6.0\task_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\task_09\obj\Debug\net6.0\task_09.AssemblyInfoInputs.cache
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\task_09\obj\Debug\net6.0\task_09.AssemblyInfo.cs
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\task_09\obj\Debug\net6.0\task_09.csproj.CoreCompileInputs.cache
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\task_09\obj\Debug\net6.0\task_09.dll
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\task_09\obj\Debug\net6.0\refint\task_09.dll
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\task_09\obj\Debug\net6.0\task_09.pdb
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\task_09\obj\Debug\net6.0\task_09.genruntimeconfig.cache
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\task_09\obj\Debug\net6.0\ref\task_09.dll
