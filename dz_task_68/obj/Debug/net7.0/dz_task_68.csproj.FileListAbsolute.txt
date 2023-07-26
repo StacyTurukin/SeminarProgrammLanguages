@@ -1,0 +1,15 @@
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\dz_task_68\bin\Debug\net7.0\dz_task_68.exe
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\dz_task_68\bin\Debug\net7.0\dz_task_68.deps.json
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\dz_task_68\bin\Debug\net7.0\dz_task_68.runtimeconfig.json
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\dz_task_68\bin\Debug\net7.0\dz_task_68.dll
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\dz_task_68\bin\Debug\net7.0\dz_task_68.pdb
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\dz_task_68\obj\Debug\net7.0\dz_task_68.csproj.AssemblyReference.cache
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\dz_task_68\obj\Debug\net7.0\dz_task_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\dz_task_68\obj\Debug\net7.0\dz_task_68.AssemblyInfoInputs.cache
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\dz_task_68\obj\Debug\net7.0\dz_task_68.AssemblyInfo.cs
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\dz_task_68\obj\Debug\net7.0\dz_task_68.csproj.CoreCompileInputs.cache
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\dz_task_68\obj\Debug\net7.0\dz_task_68.dll
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\dz_task_68\obj\Debug\net7.0\refint\dz_task_68.dll
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\dz_task_68\obj\Debug\net7.0\dz_task_68.pdb
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\dz_task_68\obj\Debug\net7.0\dz_task_68.genruntimeconfig.cache
+C:\Users\stasy\OneDrive\Рабочий стол\GeekBrains\C_SHarp\dz_task_68\obj\Debug\net7.0\ref\dz_task_68.dll
